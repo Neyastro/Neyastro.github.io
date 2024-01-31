@@ -107,6 +107,14 @@
   }
 }
 
-.div {
-  font-size: 20;
+body {
+  background-image: url("fonddecran.jpg");
+}
+
+.texte{
+  color: white;
+}
+
+.burger-color{
+  color: white;
 }
